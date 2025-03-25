@@ -1,0 +1,110 @@
+{
+    "version": "1.0.0",
+    "java": {
+        "version": "11.0.18",
+        "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.18%2B10/OpenJDK11U-jre_x64_windows_hotspot_11.0.18_10.zip"
+    },
+    "servers": [
+        {
+            "id": "MyServer-1.16.5",
+            "name": "My Custom Server",
+            "description": "My awesome Minecraft server with mods!",
+            "address": "118.37.57.18",
+            "minecraftVersion": "1.16.5",
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.16.5-36.2.39",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 4455536,
+                        "MD5": "7cef816cc01d53a04a180f0214d2982a",
+                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
+                    }
+                },
+                {
+                    "id": "armourersworkshop:forge:1.16.5-2.0.0-beta.3",
+                    "name": "Armourer's Workshop",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2524714,
+                        "MD5": "c6f8b2b4e4e7c8b8e0e5e7c8e4e7c8b8",
+                        "url": "https://angpory.github.io/mode/armourersworkshop-forge-1.16.5-2.0.0-beta.3.jar"
+                    }
+                },
+                {
+                    "id": "customnpcs:1.16.5.20220515",
+                    "name": "Custom NPCs",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3936347,
+                        "MD5": "f6e8b8e4e7c8b8e0e5e7c8e4e7c8b8e0",
+                        "url": "https://angpory.github.io/mode/CustomNPCs-1.16.5.20220515.jar"
+                    }
+                },
+                {
+                    "id": "haru:0.47.1-SNAPSHOT",
+                    "name": "Haru",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2608793,
+                        "MD5": "5766ab34d4d4fad9d34be3667f727521",
+                        "url": "https://angpory.github.io/mode/haru-0.47.1-SNAPSHOT.jar"
+                    }
+                },
+                {
+                    "id": "memoryleakfix:forge-pre1.17-1.1.5",
+                    "name": "Memory Leak Fix",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 45678,
+                        "MD5": "b8e0e5e7c8e4e7c8b8e0e5e7c8e4e7c8",
+                        "url": "https://angpory.github.io/mode/memoryleakfix-forge-pre1.17-1.1.5.jar"
+                    }
+                },
+                {
+                    "id": "naraechat:1.16.3-0.7.1",
+                    "name": "Narae Chat",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 89123,
+                        "MD5": "e7c8b8e0e5e7c8e4e7c8b8e0e5e7c8e4",
+                        "url": "https://angpory.github.io/mode/naraechat-1.16.3-0.7.1.jar"
+                    }
+                },
+                {
+                    "id": "pixelmon:1.16.5-9.1.13",
+                    "name": "Pixelmon",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 345678901,
+                        "MD5": "c8e4e7c8b8e0e5e7c8e4e7c8b8e0e5e7",
+                        "url": "https://drive.google.com/uc?export=download&id=144TZ01CplCgk9m70lVq6NiZopsZ5Q07u"
+                    }
+                },
+                {
+                    "id": "voicechat:forge-1.16.5-2.5.22",
+                    "name": "Simple Voice Chat",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7720153,
+                        "MD5": "f8b176d2ef314f2368bde6101245b32c",
+                        "url": "https://angpory.github.io/mode/voicechat-forge-1.16.5-2.5.22.jar"
+                    }
+                },
+                {
+                    "id": "journeymap:1.16.5-5.8.5p6",
+                    "name": "JourneyMap",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1876543,
+                        "MD5": "e5e7c8e4e7c8b8e0e5e7c8e4e7c8b8e0",
+                        "url": "https://angpory.github.io/mode/journeymap-1.16.5-5.8.5p6.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
