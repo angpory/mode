@@ -24,9 +24,9 @@
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 4455536,
-                        "MD5": "7cef816cc01d53a04a180f0214d2982a",
-                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-installer.jar"
+                        "size": 7481495,
+                        "MD5": "16654cc79a75b696b8c1c177072dae7e",
+                        "url": "https://github.com/angpory/mode/blob/main/forge-1.16.5-36.2.39-installer.jar"
                     }
                 },
                 {
@@ -35,7 +35,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2524714,
-                        "MD5": "e6f8b2b4e4e7c8b8e0e5e7c8e4e7c8b8",
+                        "MD5": "727b6784e73f1daf97f4a64629c06c98",
                         "url": "https://angpory.github.io/mode/armourersworkshop-forge-1.16.5-2.0.0-beta.3.jar"
                     }
                 },
@@ -44,8 +44,8 @@
                     "name": "Custom NPCs",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 3936347,
-                        "MD5": "f6e8b8e4e7c8b8e0e5e7c8e4e7c8b8e0",
+                        "size": 12457390,
+                        "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9",
                         "url": "https://angpory.github.io/mode/CustomNPCs-1.16.5.20220515.jar"
                     }
                 },
@@ -64,8 +64,8 @@
                     "name": "Memory Leak Fix",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 45678,
-                        "MD5": "b8e0e5e7c8e4e7c8b8e0e5e7c8e4e7c8",
+                        "size": 225324,
+                        "MD5": "fe7c6324891ef8f6d00ebc23f6d185a2",
                         "url": "https://angpory.github.io/mode/memoryleakfix-forge-pre1.17-1.1.5.jar"
                     }
                 },
@@ -74,8 +74,8 @@
                     "name": "Narae Chat",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 89123,
-                        "MD5": "e7c8b8e0e5e7c8e4e7c8b8e0e5e7c8e4",
+                        "size": 1755294,
+                        "MD5": "e75b886d783090db4d3c7b45c0e25f10",
                         "url": "https://angpory.github.io/mode/naraechat-1.16.3-0.7.1.jar"
                     }
                 },
@@ -94,8 +94,8 @@
                     "name": "JourneyMap",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 1876543,
-                        "MD5": "e5e7c8e4e7c8b8e0e5e7c8e4e7c8b8e0",
+                        "size": 6693593,
+                        "MD5": "398f1e0c23efec7b5ed317ba0e80a7c7",
                         "url": "https://angpory.github.io/mode/journeymap-1.16.5-5.8.5p6.jar"
                     }
                 }
