@@ -6,14 +6,14 @@
         "smallImageKey": "seal-circle"
     },
     "java": {
-        "oracle": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.18%2B10/OpenJDK11U-jre_x64_windows_hotspot_11.0.18_10.zip"
+        "oracle": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.18+10/OpenJDK11U-jre_x64_windows_hotspot_11.0.18_10.zip"
     },
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
             "id": "MyServer-1.16.5",
-            "name": "My Custom Server",
-            "description": "My awesome Minecraft server with mods!",
+            "name": "angpory",
+            "description": "angpory test",
             "address": "118.37.57.18",
             "minecraftVersion": "1.16.5",
             "mainServer": true,
@@ -26,7 +26,7 @@
                     "artifact": {
                         "size": 4455536,
                         "MD5": "7cef816cc01d53a04a180f0214d2982a",
-                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
+                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-installer.jar"
                     }
                 },
                 {
